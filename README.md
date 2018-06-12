@@ -12,6 +12,7 @@
 * Now to Vote
 * ```./eosc vote list. (This will display all producers for you to select from)```
 * ```./eosc vote producers [your account] [producer1] [producer2] [producer3]```
+
          For Example:   ```eosc vote producers  hambhs3  cypherglass eoscanadacom```
   * Enter your vault password from above
   * It should say successfully voted
