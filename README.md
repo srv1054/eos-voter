@@ -1,6 +1,6 @@
 ## EOS Voting steps
 
-* Download your OS version and unzip it somewhere. ( https://github.com/eoscanada/eosc/releases)
+* Download your OS version from the awesome guys at EOS Canada and unzip it somewhere. ( https://github.com/eoscanada/eosc/releases)
 * Open a terminal / cmd window to that directory
 * Your machine can be offline for this part if you want
 * ```./eosc vault create --import```
