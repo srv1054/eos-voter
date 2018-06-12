@@ -18,6 +18,6 @@
   * It should say successfully voted
 * Verify your vote and tokens here:  https://eosflare.io/account/<your account name>
 
-Your private key is stored encrypted in the wallet file on the computer you ran this on.  If you are not comfortable with this you can delete the wallet file called eosc-vault.json when you are done
+Your private key is stored encrypted in the wallet file on the computer you ran this on.  If you are not comfortable with this you can delete the wallet file called `eosc-vault.json` when you are done
 
 You can also delete all this shit off your computer if you want.  It created a software wallet that you can use to buy EOS on launch since the HW wallets don’t support it yet.   Your call
